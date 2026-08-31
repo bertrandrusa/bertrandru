@@ -330,7 +330,6 @@ export default function App() {
               transition={{ duration: 0.8, delay: 0.55 }}
             >
               <div>
-                <span>Based in</span> <strong>Indiana, USA</strong>
                 <span>©</span> <strong>2026</strong>
                 <span>v.</span> <strong>02.0</strong>
               </div>
